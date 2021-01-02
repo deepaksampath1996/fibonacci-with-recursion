@@ -3,7 +3,7 @@ for num in range(2, n):
     if n % num==0:
         print ("not a prime")
         break
-    else:
+else:
         print("it is a prime")
 
 
